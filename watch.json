@@ -1,0 +1,7 @@
+{
+  "_about": "GitHub repos whose latest release is snapshotted daily (Tech Weekly Releases). Add or remove lines; nothing else needs editing.",
+  "repos": [
+    "nodejs/node", "python/cpython", "denoland/deno", "oven-sh/bun", "vercel/next.js", "facebook/react",
+    "microsoft/vscode", "ollama/ollama", "ggml-org/llama.cpp", "remotion-dev/remotion", "astral-sh/uv", "astral-sh/ruff"
+  ]
+}
