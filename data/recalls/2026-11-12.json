@@ -2,6 +2,202 @@
  "cpsc": {
   "items": [
    {
+    "ConsumerContact": "Cummins at 800-286-6467 Monday through Friday anytime or online at www.cummins.com/en-na/na/generators/portable-generators/safety-recalls/campaigns/7308 or go to www.cummins.com/en-na/na/generators/portable-generators and click on “Safety Recalls” at the top of the page for more information. ",
+    "Description": "This recall involves the Cummins Onan P5000iDF EFI Dual Fuel Portable Generators sold in a dark gray color. The generators can operate on gasoline or propane, and produce between 4,500 and 5,000 watts, depending on fuel. “Cummins” is printed in white on the front of the unit and the handle above the control panel. The Cummins \"C\" logo and \"Onan P5000iDF EFI\" are printed on the side. The model and part number can be found on the label attached to the side of the generator. ",
+    "Distributors": [
+     {
+      "CompanyID": "",
+      "Name": "Cummins Inc., of Columbus, Indiana"
+     }
+    ],
+    "Hazards": [
+     {
+      "HazardType": "",
+      "HazardTypeID": "",
+      "Name": "The valves in the recalled generators were installed incorrectly, preventing fuel vapors from venting properly from the gasoline tank, causing excessive pressure to build up. This pressure can cause fuel to discharge or the fuel cap to eject, posing a risk of serious injury from fire and burn hazards."
+     }
+    ],
+    "Images": [
+     {
+      "Caption": "Recalled Cummins Onan P5000iDF EFI Dual Fuel Portable Generator",
+      "URL": "https://www.cpsc.gov/s3fs-public/Cummins1.png?VersionId=tZUE.QfqyptxwTEYJiAcJhpYOQ6NBdsp"
+     },
+     {
+      "Caption": "Label on the side of the generator with the model and part number",
+      "URL": "https://www.cpsc.gov/s3fs-public/Cummins2.png?VersionId=O2.p747wekB2EAQETB4mbwZlNcuEW97h"
+     }
+    ],
+    "Importers": [],
+    "Inconjunctions": [],
+    "Injuries": [],
+    "LastPublishDate": "2026-11-12T00:00:00",
+    "ManufacturerCountries": [],
+    "Manufacturers": [],
+    "ProductUPCs": [],
+    "Products": [],
+    "RecallDate": "2026-11-12T00:00:00",
+    "RecallID": 11059,
+    "RecallNumber": "27087",
+    "Remedies": [],
+    "RemedyOptions": [],
+    "Retailers": [
+     {
+      "CompanyID": "",
+      "Name": "Sold At:\nCamping World, Factory Pure, Northern Tool, AP Electric stores and online atCummins.com from May 2025 through August 2026 for between $1,640 and $1,930."
+     }
+    ],
+    "SoldAtLabel": null,
+    "Title": "Cummins Recalls Portable Generators Due to Risk of Serious Injury from Fire and Burn Hazards",
+    "URL": "https://www.cpsc.gov/Recalls/2027/Cummins-Recalls-Portable-Generators-Due-to-Risk-of-Serious-Injury-from-Fire-and-Burn-Hazards"
+   },
+   {
+    "ConsumerContact": "Huffy Corporation toll-free at 855-430-6240 from 8 a.m. to 5 p.m. ET Monday through Friday, email at service@huffy.com or online at https://www.buzzbicycles.com/recalls or at www.buzzbicycles.com and click on “Recalls” at the top of the page for more information.",
+    "Description": "This recall involves Buzz Bicycles Cerana T2 E-Trike, model E4004. The tricycle is a pedal assist tricycle. The tricycle is gray with \"BUZZ\" logos on the left and right side. The tricycle has a 500-Watt motor and a 48-Volt battery. The tricycle has three 24-inch wheels. The model number is printed on a label near the pedals on the bottom side of the frame’s downtube. ",
+    "Distributors": [],
+    "Hazards": [
+     {
+      "HazardType": "",
+      "HazardTypeID": "",
+      "Name": "The recalled tricycles’ rear wheels can become loose or separate from the rear frame, posing a risk of serious injury from a fall hazard."
+     }
+    ],
+    "Images": [
+     {
+      "Caption": "Recalled Buzz Bicycles Cerana T2 E-Trike, model E4004",
+      "URL": "https://www.cpsc.gov/s3fs-public/Huffy1.jpg?VersionId=QLL20sS7WlVoNJa5y3bJY3doTHAPJyhs"
+     }
+    ],
+    "Importers": [
+     {
+      "CompanyID": "",
+      "Name": "Huffy Corporation, of Miamisburg, Ohio"
+     }
+    ],
+    "Inconjunctions": [],
+    "Injuries": [
+     {
+      "Name": "The firm has received 12 reports of the rear wheel becoming loose or separating, resulting in three injuries of shoulder and wrists sprains, leg bruising and abrasions."
+     }
+    ],
+    "LastPublishDate": "2026-11-12T00:00:00",
+    "ManufacturerCountries": [
+     {
+      "Country": "China"
+     }
+    ],
+    "Manufacturers": [],
+    "ProductUPCs": [],
+    "Products": [
+     {
+      "CategoryID": "1850",
+      "Description": "",
+      "Model": "",
+      "Name": "Buzz Bicycles Cerana T2 E-Trike",
+      "NumberOfUnits": "About 286",
+      "Type": "Bicycles & Accessories"
+     }
+    ],
+    "RecallDate": "2026-11-12T00:00:00",
+    "RecallID": 11058,
+    "RecallNumber": "27086",
+    "Remedies": [
+     {
+      "Name": "Consumers should stop using the recalled tricycles immediately and contact Huffy for free replacement rear axle assemblies. The rear wheel axle assemblies will be sent directly to consumers or to a third-party who will repair the tricycle. Huffy Corporation will reimburse consumers up to $100 for charges incurred by the third-party repair."
+     }
+    ],
+    "RemedyOptions": [
+     {
+      "Option": "Repair"
+     }
+    ],
+    "Retailers": [
+     {
+      "CompanyID": "",
+      "Name": "Sold At:\nIndependent bike shops nationwide and online atwww.buzzbicycles.com from November 2024 through July 2026 for between $1,400 and $2,500."
+     }
+    ],
+    "SoldAtLabel": null,
+    "Title": "Huffy Recalls Buzz Bicycles Cerana T2 E-Trikes Due to Risk of Serious Injury from Fall Hazard",
+    "URL": "https://www.cpsc.gov/Recalls/2027/Huffy-Recalls-Buzz-Bicycles-Cerana-T2-E-Trikes-Due-to-Risk-of-Serious-Injury-from-Fall-Hazard"
+   },
+   {
+    "ConsumerContact": "Kakgold by email at kakrecall@outlook.com.",
+    "Description": "This recall involves the Kakgold 4WD stunt vehicles with a remote-control containing button cell and lithium-ion batteries. The toy car has a lime green and blue body, a black chassis and four black wheels with lime green trim and diagonal rollers. The vehicle body features checkered patterns, an “X” design and the words “PRO” and “RACING.” A white hang tag attached to the vehicle body displays “Do Not Twist the Shaft” in red lettering and illustrations marked with red crosses. ",
+    "Distributors": [],
+    "Hazards": [
+     {
+      "HazardType": "",
+      "HazardTypeID": "",
+      "Name": "The recalled remote-controlled cars violate the mandatory standard for toys because they contain button cell and lithium-ion batteries in the remote control that can be easily accessed by children, posing a deadly ingestion hazard to children. When button cell or coin batteries are swallowed, the ingested batteries can cause serious injuries, internal chemical burns and death"
+     }
+    ],
+    "Images": [
+     {
+      "Caption": "Recalled Kakgold 4WD Stunt Vehicle Toy – packaging front",
+      "URL": "https://www.cpsc.gov/s3fs-public/Kakgold1.jpg?VersionId=9Wrjcyt_8XIgcQGX8kAtEkfaG7q0J0TL"
+     },
+     {
+      "Caption": "Remote-control containing button cell and lithium-ion batteries",
+      "URL": "https://www.cpsc.gov/s3fs-public/Kakgold2.jpg?VersionId=Ti6vjRBvOu21tRi_cYpf7SlJJaj8w_l5"
+     },
+     {
+      "Caption": "Recalled Kakgold 4WD Stunt Vehicle Toy – top view with hang tag",
+      "URL": "https://www.cpsc.gov/s3fs-public/Kakgold3.jpg?VersionId=YGoGLN_GKWjWPXKl5IYRDFctOAIpk1mE"
+     }
+    ],
+    "Importers": [],
+    "Inconjunctions": [],
+    "Injuries": [
+     {
+      "Name": "None reported."
+     }
+    ],
+    "LastPublishDate": "2026-11-12T00:00:00",
+    "ManufacturerCountries": [
+     {
+      "Country": "China"
+     }
+    ],
+    "Manufacturers": [],
+    "ProductUPCs": [],
+    "Products": [
+     {
+      "CategoryID": "1797",
+      "Description": "",
+      "Model": "",
+      "Name": "Kakgold 4WD Stunt Vehicle Toys",
+      "NumberOfUnits": "About 294",
+      "Type": "Toy Vehicles, Not Specified"
+     }
+    ],
+    "RecallDate": "2026-11-12T00:00:00",
+    "RecallID": 11057,
+    "RecallNumber": "27085",
+    "Remedies": [
+     {
+      "Name": "Consumers should stop using the remote-controlled car toys immediately and contact Kakgold for information on how to receive a full refund. Consumers will be asked to write “RECALLED” on the product and email a photograph showing the product being properly disposed of in the trash to kakrecall@outlook.com.\n\nNote: Button cell batteries are hazardous. Batteries should be disposed of or recycled by following local hazardous waste procedures."
+     }
+    ],
+    "RemedyOptions": [
+     {
+      "Option": "Refund"
+     }
+    ],
+    "Retailers": [
+     {
+      "CompanyID": "",
+      "Name": "Sold Online At:\nAmazon.com from July 2026 throughSeptember 2026 for between $34 and $50."
+     },
+     {
+      "CompanyID": "",
+      "Name": "Shenzhenshi Juteng Lechuang Technology Co., Ltd., dba Kakgold, of China"
+     }
+    ],
+    "SoldAtLabel": null,
+    "Title": "Kakgold Recalls 4WD Remote-Controlled Car Toys Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Toys",
+    "URL": "https://www.cpsc.gov/Recalls/2027/Kakgold-Recalls-4WD-Remote-Controlled-Car-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys"
+   },
+   {
     "ConsumerContact": "Arlopu toll-free at 800-657-9218 from 9 a.m. to 5:30 p.m. ET Monday through Friday, email at arlopu_support@163.com or online at https://arlopu.com/ and click on “Recall Information” at the top of the page for more information.",
     "Description": "This recall involves Arlopu Slide Playsets with model numbers KT-CS17 and LY-31. The plastic playsets are designed for indoor or outdoor use and contain multiple activity components, including a slide and a basketball hoop. The playsets are available in tan, red, blue, yellow, gray and green. Model number KT-CS17 is printed on a label located on the underside of the elevated platform of the playset.  Model LY-31 is printed on a label located on the upper back panel behind the slide of the playset.",
     "Distributors": [],
@@ -4479,6 +4675,6 @@
   ],
   "source": "api.fda.gov"
  },
- "fetched_at": "2026-11-12T02:47:15.058312+00:00",
+ "fetched_at": "2026-11-12T16:00:04.010132+00:00",
  "window_days": 14
 }
