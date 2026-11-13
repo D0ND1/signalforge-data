@@ -1,0 +1,83 @@
+{
+ "fetched_at": "2026-11-13T15:27:22.687799+00:00",
+ "items": {
+  "astral-sh/ruff": {
+   "html_url": "https://github.com/astral-sh/ruff/releases/tag/0.17.5",
+   "name": "0.17.5",
+   "prerelease": false,
+   "published_at": "2026-11-12T17:55:55Z",
+   "tag_name": "0.17.5"
+  },
+  "astral-sh/uv": {
+   "html_url": "https://github.com/astral-sh/uv/releases/tag/0.13.8",
+   "name": "0.13.8",
+   "prerelease": false,
+   "published_at": "2026-11-12T17:03:07Z",
+   "tag_name": "0.13.8"
+  },
+  "denoland/deno": {
+   "html_url": "https://github.com/denoland/deno/releases/tag/v2.9.8",
+   "name": "v2.9.8",
+   "prerelease": false,
+   "published_at": "2026-10-21T15:28:53Z",
+   "tag_name": "v2.9.8"
+  },
+  "facebook/react": {
+   "html_url": "https://github.com/react/react/releases/tag/v19.3.1",
+   "name": "19.3.1 (October 14th, 2026)",
+   "prerelease": false,
+   "published_at": "2026-10-14T17:06:15Z",
+   "tag_name": "v19.3.1"
+  },
+  "ggml-org/llama.cpp": {
+   "html_url": "https://github.com/ggml-org/llama.cpp/releases/tag/v1.0.0",
+   "name": "v1.0.0",
+   "prerelease": false,
+   "published_at": "2026-11-13T10:20:19Z",
+   "tag_name": "v1.0.0"
+  },
+  "microsoft/vscode": {
+   "html_url": "https://github.com/microsoft/vscode/releases/tag/1.146.0",
+   "name": "1.146.0",
+   "prerelease": false,
+   "published_at": "2026-11-11T10:07:14Z",
+   "tag_name": "1.146.0"
+  },
+  "nodejs/node": {
+   "html_url": "https://github.com/nodejs/node/releases/tag/v27.0.0-alpha.0.1.0",
+   "name": "2026-11-12, Version 27.0.0-alpha.0.1.0 (Alpha), @aduh95",
+   "prerelease": false,
+   "published_at": "2026-11-12T13:35:13Z",
+   "tag_name": "v27.0.0-alpha.0.1.0"
+  },
+  "ollama/ollama": {
+   "html_url": "https://github.com/ollama/ollama/releases/tag/v0.40.16",
+   "name": "v0.40.16",
+   "prerelease": false,
+   "published_at": "2026-11-09T18:21:19Z",
+   "tag_name": "v0.40.16"
+  },
+  "oven-sh/bun": {
+   "html_url": "https://github.com/oven-sh/bun/releases/tag/bun-v1.4.4",
+   "name": "Bun v1.4.4",
+   "prerelease": false,
+   "published_at": "2026-10-22T10:11:32Z",
+   "tag_name": "bun-v1.4.4"
+  },
+  "remotion-dev/remotion": {
+   "html_url": "https://github.com/remotion-dev/remotion/releases/tag/v4.0.543",
+   "name": "v4.0.543",
+   "prerelease": false,
+   "published_at": "2026-11-11T19:24:21Z",
+   "tag_name": "v4.0.543"
+  },
+  "vercel/next.js": {
+   "html_url": "https://github.com/vercel/next.js/releases/tag/v16.4.6",
+   "name": "v16.4.6",
+   "prerelease": false,
+   "published_at": "2026-11-09T20:27:17Z",
+   "tag_name": "v16.4.6"
+  }
+ },
+ "source": "api.github.com"
+}
