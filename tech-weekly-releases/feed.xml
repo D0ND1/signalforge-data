@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>Tech Weekly Releases: verified updates</title>
+<subtitle>CISA's exploited-vulnerability patch deadlines and end-of-life dates, from the official records.</subtitle>
+<id>urn:uuid:8a71cbbc-041a-517e-b5b4-bb1db23ea83e</id>
+<updated>2026-11-18T00:00:00Z</updated>
+<author><name>Tech Weekly Releases</name></author>
+<link rel="self" type="application/atom+xml" href="https://d0nd1.github.io/signalforge-data/tech-weekly-releases/feed.xml"/>
+<link rel="alternate" type="text/html" href="https://d0nd1.github.io/signalforge-data/tech-weekly-releases/"/>
+</feed>
