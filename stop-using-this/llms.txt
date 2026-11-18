@@ -1,0 +1,9 @@
+# Stop Using This
+
+> The recall, the fix, nothing else. Every number is quoted from an official page (linked on each page); computations are shown as arithmetic. Narration uses an AI voice.
+
+## Policies
+
+- [How we verify](https://d0nd1.github.io/signalforge-data/stop-using-this/how-we-verify.html)
+- [Corrections](https://d0nd1.github.io/signalforge-data/stop-using-this/corrections.html)
+- [Disclosure](https://d0nd1.github.io/signalforge-data/stop-using-this/disclosure.html)

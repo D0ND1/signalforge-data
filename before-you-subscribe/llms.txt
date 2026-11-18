@@ -1,0 +1,13 @@
+# Before You Subscribe
+
+> Know the catch before you pay. Every number is quoted from an official page (linked on each page); computations are shown as arithmetic. Narration uses an AI voice.
+
+## Price histories (dated, verbatim copies of official pricing pages)
+
+- [prices/index.html](https://d0nd1.github.io/signalforge-data/before-you-subscribe/prices/index.html)
+
+## Policies
+
+- [How we verify](https://d0nd1.github.io/signalforge-data/before-you-subscribe/how-we-verify.html)
+- [Corrections](https://d0nd1.github.io/signalforge-data/before-you-subscribe/corrections.html)
+- [Disclosure](https://d0nd1.github.io/signalforge-data/before-you-subscribe/disclosure.html)
