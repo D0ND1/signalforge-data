@@ -2,6 +2,11 @@
 
 > The recall, the fix, nothing else. Every number is quoted from an official page (linked on each page); computations are shown as arithmetic. Narration uses an AI voice.
 
+## Data pages (dated records from official sources, each linked)
+
+- [recalls.html](https://d0nd1.github.io/signalforge-data/stop-using-this/recalls.html)
+- [feed.xml](https://d0nd1.github.io/signalforge-data/stop-using-this/feed.xml) (Atom feed of new verified items)
+
 ## Policies
 
 - [How we verify](https://d0nd1.github.io/signalforge-data/stop-using-this/how-we-verify.html)
